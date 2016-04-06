@@ -12,6 +12,7 @@
 * https://reddit.com/r/travel/top/?sort=top&t=week
 * https://reddit.com/r/Frontend/top/?sort=top&t=week
 * https://reddit.com/r/reactjs/?sort=top&t=week
+* https://reddit.com/r/getdisciplined?sort=top&t=week
 
 * https://www.youtube.com/feed/subscriptions
 * https://vimeo.com
