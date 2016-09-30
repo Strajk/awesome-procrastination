@@ -17,5 +17,6 @@
 - [arstechnica.com](http://arstechnica.com)
 - [kickstarter.com - popular](https://www.kickstarter.com/discover/popular)
 - [kickstarter - newest recommended](https://www.kickstarter.com/discover/recommended?sort=newest)
+- [Indiegogo](https://www.indiegogo.com/explore#/browse/all?quick_filter=new&location=everywhere&project_type=all&percent_funded=all&goal_type=all&more_options=false&status=all)
 - [pinboard.in – ttscoff](https://pinboard.in/u:ttscoff/public/)
 - [imdb.com – top, excluding rated](http://www.imdb.com/search/title?sort=num_votes%2Cdesc&title_type=feature&my_ratings=exclude)
