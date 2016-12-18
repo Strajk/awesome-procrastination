@@ -1,6 +1,7 @@
 - [newsblur.com](http://www.newsblur.com/)
 - [hckrnews.com](http://hckrnews.com)
 - [producthunt.com](http://producthunt.com)
+- [getpocket.com/explore](https://getpocket.com/explore/)
 - [reddit.com - top/week](https://reddit.com/top/?sort=top&t=week)
 - [reddit.com/r/videos - top/week](https://reddit.com/r/videos/top/?sort=top&t=week)
 - [reddit.com/r/AskReddit - top/week](https://reddit.com/r/AskReddit/top/?sort=top&t=week)
